@@ -9,10 +9,6 @@ Rules
     1 2 3
     4 5 6
     7 8 9
-    Input of 1 will enter X in the first square and the board will look like this 
-    X - -
-    - - -
-    - - -
  -----------------------------
  Algorithm:
  ----------
