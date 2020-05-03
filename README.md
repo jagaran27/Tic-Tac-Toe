@@ -5,10 +5,12 @@ This is only the terminal version of the Tic Tac Toe. It is a player vs machine 
 Rules
 -----
 1.You can only play as 'X' right now. The machine plays as 'O'. 
-2. You need to enter a value between 1 and 9 to put 'X' in the corresponding square of the matrix below
+2. You need to enter a value between 1 and 9 to put 'X' in the corresponding square of the matrix below:
     1 2 3
     4 5 6
     7 8 9
+    
+  
  -----------------------------
  Algorithm:
  ----------
